@@ -14,6 +14,7 @@ public class Demo1 {
 		ad.addThreenum(20, 50,50);
 		sd.sub(40, 20);
 		sd.subThree(70, 20, 30);
+		sd.subThree1(70, 20, 30);
 
 	}
 
