@@ -12,4 +12,10 @@ public class AddDemo {
 		System.out.println("Result of Three is :"+d);
 		
 	}
+	public void addThreenum1(int a, int b, int c)
+	{
+		int d=a+b+c;
+		System.out.println("Result of Three is :"+d);
+		
+	}
 }
