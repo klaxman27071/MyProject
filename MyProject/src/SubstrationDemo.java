@@ -10,5 +10,10 @@ public class SubstrationDemo {
 		int d=a-b-c;
 		System.out.println("Result of sub is :"+d);
 	}
+	public void subThree1(int a, int b, int c)
+	{
+		int d=a-b-c;
+		System.out.println("Result of sub is :"+d);
+	}
 
 }
