@@ -9,8 +9,10 @@ public class Demo1 {
 		System.out.println("Result of addition is: "+c);
 		System.out.println("Completed...");
 		AddDemo ad=new AddDemo();
+		SubstrationDemo sd=new SubstrationDemo();
 		ad.add(20, 50);
 		ad.addThreenum(20, 50,50);
+		sd.sub(40, 20);
 
 	}
 
