@@ -10,6 +10,7 @@ public class Demo1 {
 		System.out.println("Completed...");
 		AddDemo ad=new AddDemo();
 		ad.add(20, 50);
+		ad.addThreenum(20, 50,50);
 
 	}
 
