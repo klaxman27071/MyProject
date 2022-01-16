@@ -15,7 +15,7 @@ public class AddDemo {
 	public void addThreenum1(int a, int b, int c)
 	{
 		int d=a+b+c;
-		System.out.println("Result of Three is :"+d);
+		System.out.println("Result of Three num add is :"+d);
 		
 	}
 }
